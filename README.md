@@ -1,0 +1,2 @@
+# FinBot
+Financial AI Agent
